@@ -38,3 +38,8 @@ console.log(name3);
 let name4 = "mahesh gadu";
 let name5 = "kumar gadu";
 console.log(name4 + " java script nerchukunta vunnadu with " + name5);
+
+// author: mahesh kumar gadu
+let age = 25;
+let age1 = 30;
+console.log(age + age1);// this done by mahesh kumar gadu
