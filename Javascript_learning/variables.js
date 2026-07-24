@@ -39,57 +39,7 @@ let name4 = "mahesh gadu";
 let name5 = "kumar gadu";
 console.log(name4 + " java script nerchukunta vunnadu with " + name5);
 
-
-const user = {
-    name : "vijay",
-    role : "QE"
-}
-// user.name = "mahesh";
-
-const user2 = user
-user2.name = "kumar";
-console.log("user1: " + user.name + ", user2: " + user2.name);
-
-// let a = 10;
-// console.log("a is : " + a);
-
-//camel case
-let userName = "vijay";
-const age = 25;
-console.log("camel_case: "+userName+" and Age: "+age);
-
-//pascal case
-let Username = "vijay";
-const Age = 49;
-console.log("Pascal_Case: "+Username+" and Age: "+Age)
-let x = 1;
-for (let i = 0; i<=5; i++){ 
-    console.log("x is: "+x);
-    x++;
-}
-console.log("x is: "+x);
-
-var y = 1;
-y = 10;
-console.log("y is: "+y);
-
-let z = 1;
-z = 100;
-console.log("z is: "+z);
-
-let _firstName = "vijay";
-console.log("first name is: "+_firstName);
-
-
-let aa = "hi vijay";
-try{
-    aa[0] = "su";
-    console.log("aa is: "+aa);
-}
-catch(e){
-    console.log("error: "+e.message);
-}
-
-const nn = 10;
-nn = 1000;
-console.log(nn)
+// author: mahesh kumar gadu
+let age = 25;
+let age1 = 30;
+console.log(age + age1);// this done by mahesh kumar gadu
